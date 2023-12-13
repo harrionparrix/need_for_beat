@@ -17,7 +17,7 @@ This repository contains a simple GraphQL API for managing musicians and their p
 ## Introduction
 
 This GraphQL API is built using Apollo Server and is designed to manage information about musicians and their associated projects. The data is stored in-memory for simplicity, and the API supports basic CRUD operations for musicians and music projects.
-
+Frontend to be added. 
 ## Prerequisites
 
 Before you start, ensure you have the following installed:
