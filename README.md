@@ -30,13 +30,13 @@ Before you start, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/harrionparrix/need_for_beat
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project_directory>
+   cd need_for_beat
    ```
 
 3. Install dependencies:
